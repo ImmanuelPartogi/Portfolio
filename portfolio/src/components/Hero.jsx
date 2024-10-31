@@ -10,7 +10,7 @@ const Hero = () => {
         <div
           data-aos="slide-left"
           data-aos-delay="1200"
-          className="absolute h-full md:w-4/12 w-8/12 top-0 right-0 bg-primaryLinear bottom-0 -z-10"
+          className="absolute h-full md:w-6/12 w-8/12 top-0 right-0 bg-slate-400 bottom-0 -z-10"
         >
           {/* Show only on desktop */}
           <h1 className="absolute top-[30%] right-[10%] hidden md:block">

@@ -31,7 +31,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="bg-dark_primary text-white" id="contact">
+    <section className="bg-slate-600 text-white" id="contact">
       <Toaster />
       <div className="md:container px-5 py-14">
         <h2 className="title !text-white" data-aos="fade-down">
@@ -54,7 +54,7 @@ const Contact = () => {
               name="from_name"
               placeholder="Name"
               required
-              className="border border-slate-600 p-3 rounded"
+              className="border border-white p-3 rounded"
             />
             <input
               type="email"
@@ -62,12 +62,12 @@ const Contact = () => {
               pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$"
               placeholder="Email Id"
               required
-              className="border border-slate-600 p-3 rounded"
+              className="border border-white p-3 rounded"
             />
             <textarea
               name="message"
               placeholder="Message"
-              className="border border-slate-600 p-3 rounded h-44"
+              className="border border-white p-3 rounded h-44"
               required
             ></textarea>
             <button
