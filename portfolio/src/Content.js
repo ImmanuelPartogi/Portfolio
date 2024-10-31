@@ -114,7 +114,7 @@ export const content = {
         name: "JavaScript",
         para: "Proficient in crafting dynamic web applications.",
         description:
-          "Expert in JavaScript frameworks like React. Skilled in asynchronous programming and clean code practices. Strong grasp of ES6+ features. Committed to enhancing user experiences.",
+          "Expert in JavaScript frameworks like React. Skilled in asynchronous programming and clean code practices. Committed to enhancing user experiences.",
         logo: javascript,
       },
       {
@@ -135,9 +135,9 @@ export const content = {
         name: "Java",
         para: "Knowledgeable in enterprise-level application development.",
         description:
-          "Skilled in OOP and scalable applications. Experienced with Spring for enterprise solutions. Proficient in multithreading. Committed to writing reliable unit tests.",
+          "Experienced in application development with Java. Proficient in multithreading and using NetBeans for efficient development and debugging. Committed to writing reliable unit tests.",
         logo: java,
-      },
+      },      
       {
         name: "C#",
         para: "Familiar with building robust applications with .NET.",
@@ -191,7 +191,7 @@ export const content = {
         name: "MongoDB",
         para: "Proficient in using MongoDB for scalable applications.",
         description:
-          "Experienced in NoSQL database management and design. Skilled in data modeling and using Mongoose for efficient database operations. Familiar with performance optimization techniques. Committed to maintaining data integrity.",
+          "Experienced in NoSQL database management and design. Familiar with performance optimization techniques. Committed to maintaining data integrity.",
         logo: mongodb,
       },      
       {
@@ -212,13 +212,12 @@ export const content = {
         name: "Node.js",
         para: "Proficient in building scalable server-side applications.",
         description:
-          "Skilled in using Node.js within Laravel for developing efficient backend services. Familiar with Express.js for routing and middleware integration. Committed to security best practices in Laravel applications.",
+          "Skilled in using Node.js within Laravel for developing efficient backend services. Committed to security best practices in Laravel applications.",
         logo: nodejs,
       }      
     ],
     icon: MdArrowForward,
   },
-
   services: {
     title: "Services",
     subtitle: "WHAT I CAN PROVIDE",
